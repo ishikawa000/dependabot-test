@@ -5,7 +5,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/nttrd-mdlab/github-study.git"
+    "url": ""
   },
   "license": "UNLICENSED",
   "devDependencies": {
